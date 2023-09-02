@@ -5,7 +5,7 @@ Based on the [getting started with shinytest2 article](https://rstudio.github.io
 
 ## Console log
 
-Full log available in full_log.txt, abridged version here for ease. Assuming latest install of R (), RTools43 and RStudio () from the software centre.
+Full log available in full_log.txt, abridged version here for ease. Assuming latest install of R (4.3.1), RTools43 (4.3.5550) and RStudio (2023.06.2.0) from the software centre.
 
 ```
 install.packages("shinytest2")
