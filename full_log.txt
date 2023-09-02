@@ -1,0 +1,475 @@
+Console log:
+
+> install.packages("shiny")
+Installing package into ‘C:/Users/crace/AppData/Local/R/win-library/4.3’
+(as ‘lib’ is unspecified)
+also installing the dependencies ‘fs’, ‘rappdirs’, ‘Rcpp’, ‘digest’, ‘base64enc’, ‘magrittr’, ‘jquerylib’, ‘memoise’, ‘sass’, ‘cli’, ‘httpuv’, ‘mime’, ‘jsonlite’, ‘xtable’, ‘fontawesome’, ‘htmltools’, ‘R6’, ‘sourcetools’, ‘later’, ‘promises’, ‘crayon’, ‘rlang’, ‘fastmap’, ‘withr’, ‘commonmark’, ‘glue’, ‘bslib’, ‘cachem’, ‘ellipsis’, ‘lifecycle’
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/fs_1.6.3.zip'
+Content type 'application/zip' length 392991 bytes (383 KB)
+downloaded 383 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/rappdirs_0.3.3.zip'
+Content type 'application/zip' length 51388 bytes (50 KB)
+downloaded 50 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/Rcpp_1.0.11.zip'
+Content type 'application/zip' length 2873482 bytes (2.7 MB)
+downloaded 2.7 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/digest_0.6.33.zip'
+Content type 'application/zip' length 206256 bytes (201 KB)
+downloaded 201 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/base64enc_0.1-3.zip'
+Content type 'application/zip' length 32637 bytes (31 KB)
+downloaded 31 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/magrittr_2.0.3.zip'
+Content type 'application/zip' length 226875 bytes (221 KB)
+downloaded 221 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/jquerylib_0.1.4.zip'
+Content type 'application/zip' length 526002 bytes (513 KB)
+downloaded 513 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/memoise_2.0.1.zip'
+Content type 'application/zip' length 49967 bytes (48 KB)
+downloaded 48 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/sass_0.4.7.zip'
+Content type 'application/zip' length 2595799 bytes (2.5 MB)
+downloaded 2.5 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/cli_3.6.1.zip'
+Content type 'application/zip' length 1334019 bytes (1.3 MB)
+downloaded 1.3 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/httpuv_1.6.11.zip'
+Content type 'application/zip' length 999740 bytes (976 KB)
+downloaded 976 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/mime_0.12.zip'
+Content type 'application/zip' length 40809 bytes (39 KB)
+downloaded 39 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/jsonlite_1.8.7.zip'
+Content type 'application/zip' length 1105497 bytes (1.1 MB)
+downloaded 1.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/xtable_1.8-4.zip'
+Content type 'application/zip' length 706285 bytes (689 KB)
+downloaded 689 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/fontawesome_0.5.2.zip'
+Content type 'application/zip' length 1358175 bytes (1.3 MB)
+downloaded 1.3 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/htmltools_0.5.6.zip'
+Content type 'application/zip' length 355416 bytes (347 KB)
+downloaded 347 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/R6_2.5.1.zip'
+Content type 'application/zip' length 84303 bytes (82 KB)
+downloaded 82 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/sourcetools_0.1.7-1.zip'
+Content type 'application/zip' length 383164 bytes (374 KB)
+downloaded 374 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/later_1.3.1.zip'
+Content type 'application/zip' length 463764 bytes (452 KB)
+downloaded 452 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/promises_1.2.1.zip'
+Content type 'application/zip' length 2013701 bytes (1.9 MB)
+downloaded 1.9 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/crayon_1.5.2.zip'
+Content type 'application/zip' length 162700 bytes (158 KB)
+downloaded 158 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/rlang_1.1.1.zip'
+Content type 'application/zip' length 1567224 bytes (1.5 MB)
+downloaded 1.5 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/fastmap_1.1.1.zip'
+Content type 'application/zip' length 129555 bytes (126 KB)
+downloaded 126 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/withr_2.5.0.zip'
+Content type 'application/zip' length 231975 bytes (226 KB)
+downloaded 226 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/commonmark_1.9.0.zip'
+Content type 'application/zip' length 142543 bytes (139 KB)
+downloaded 139 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/glue_1.6.2.zip'
+Content type 'application/zip' length 162440 bytes (158 KB)
+downloaded 158 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/bslib_0.5.1.zip'
+Content type 'application/zip' length 6164364 bytes (5.9 MB)
+downloaded 5.9 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/cachem_1.0.8.zip'
+Content type 'application/zip' length 72517 bytes (70 KB)
+downloaded 70 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/ellipsis_0.3.2.zip'
+Content type 'application/zip' length 40478 bytes (39 KB)
+downloaded 39 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/lifecycle_1.0.3.zip'
+Content type 'application/zip' length 139060 bytes (135 KB)
+downloaded 135 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/shiny_1.7.5.zip'
+Content type 'application/zip' length 4400394 bytes (4.2 MB)
+downloaded 4.2 MB
+
+package ‘fs’ successfully unpacked and MD5 sums checked
+package ‘rappdirs’ successfully unpacked and MD5 sums checked
+package ‘Rcpp’ successfully unpacked and MD5 sums checked
+package ‘digest’ successfully unpacked and MD5 sums checked
+package ‘base64enc’ successfully unpacked and MD5 sums checked
+package ‘magrittr’ successfully unpacked and MD5 sums checked
+package ‘jquerylib’ successfully unpacked and MD5 sums checked
+package ‘memoise’ successfully unpacked and MD5 sums checked
+package ‘sass’ successfully unpacked and MD5 sums checked
+package ‘cli’ successfully unpacked and MD5 sums checked
+package ‘httpuv’ successfully unpacked and MD5 sums checked
+package ‘mime’ successfully unpacked and MD5 sums checked
+package ‘jsonlite’ successfully unpacked and MD5 sums checked
+package ‘xtable’ successfully unpacked and MD5 sums checked
+package ‘fontawesome’ successfully unpacked and MD5 sums checked
+package ‘htmltools’ successfully unpacked and MD5 sums checked
+package ‘R6’ successfully unpacked and MD5 sums checked
+package ‘sourcetools’ successfully unpacked and MD5 sums checked
+package ‘later’ successfully unpacked and MD5 sums checked
+package ‘promises’ successfully unpacked and MD5 sums checked
+package ‘crayon’ successfully unpacked and MD5 sums checked
+package ‘rlang’ successfully unpacked and MD5 sums checked
+package ‘fastmap’ successfully unpacked and MD5 sums checked
+package ‘withr’ successfully unpacked and MD5 sums checked
+package ‘commonmark’ successfully unpacked and MD5 sums checked
+package ‘glue’ successfully unpacked and MD5 sums checked
+package ‘bslib’ successfully unpacked and MD5 sums checked
+package ‘cachem’ successfully unpacked and MD5 sums checked
+package ‘ellipsis’ successfully unpacked and MD5 sums checked
+package ‘lifecycle’ successfully unpacked and MD5 sums checked
+package ‘shiny’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\crace\AppData\Local\Temp\RtmpmUb8Uu\downloaded_packages
+> library(shinytest2)
+Error in library(shinytest2) : there is no package called ‘shinytest2’
+> install.packages("shinytest2")
+Installing package into ‘C:/Users/crace/AppData/Local/R/win-library/4.3’
+(as ‘lib’ is unspecified)
+also installing the dependencies ‘utf8’, ‘pillar’, ‘pkgconfig’, ‘sys’, ‘rprojroot’, ‘diffobj’, ‘fansi’, ‘rematch2’, ‘tibble’, ‘AsioHeaders’, ‘askpass’, ‘highr’, ‘stringi’, ‘vctrs’, ‘brio’, ‘desc’, ‘evaluate’, ‘pkgload’, ‘praise’, ‘processx’, ‘ps’, ‘waldo’, ‘backports’, ‘curl’, ‘websocket’, ‘openssl’, ‘knitr’, ‘stringr’, ‘tinytex’, ‘xfun’, ‘yaml’, ‘testthat’, ‘callr’, ‘checkmate’, ‘chromote’, ‘globals’, ‘httr’, ‘pingr’, ‘rmarkdown’, ‘cpp11’
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/utf8_1.2.3.zip'
+Content type 'application/zip' length 149624 bytes (146 KB)
+downloaded 146 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/pillar_1.9.0.zip'
+Content type 'application/zip' length 659141 bytes (643 KB)
+downloaded 643 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/pkgconfig_2.0.3.zip'
+Content type 'application/zip' length 22476 bytes (21 KB)
+downloaded 21 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/sys_3.4.2.zip'
+Content type 'application/zip' length 47141 bytes (46 KB)
+downloaded 46 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/rprojroot_2.0.3.zip'
+Content type 'application/zip' length 109247 bytes (106 KB)
+downloaded 106 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/diffobj_0.3.5.zip'
+Content type 'application/zip' length 1006334 bytes (982 KB)
+downloaded 982 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/fansi_1.0.4.zip'
+Content type 'application/zip' length 312861 bytes (305 KB)
+downloaded 305 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/rematch2_2.1.2.zip'
+Content type 'application/zip' length 47514 bytes (46 KB)
+downloaded 46 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/tibble_3.2.1.zip'
+Content type 'application/zip' length 691000 bytes (674 KB)
+downloaded 674 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/AsioHeaders_1.22.1-2.zip'
+Content type 'application/zip' length 1191974 bytes (1.1 MB)
+downloaded 1.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/askpass_1.1.zip'
+Content type 'application/zip' length 73514 bytes (71 KB)
+downloaded 71 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/highr_0.10.zip'
+Content type 'application/zip' length 46576 bytes (45 KB)
+downloaded 45 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/stringi_1.7.12.zip'
+Content type 'application/zip' length 14216005 bytes (13.6 MB)
+downloaded 13.6 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/vctrs_0.6.3.zip'
+Content type 'application/zip' length 1333169 bytes (1.3 MB)
+downloaded 1.3 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/brio_1.1.3.zip'
+Content type 'application/zip' length 38275 bytes (37 KB)
+downloaded 37 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/desc_1.4.2.zip'
+Content type 'application/zip' length 326254 bytes (318 KB)
+downloaded 318 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/evaluate_0.21.zip'
+Content type 'application/zip' length 82928 bytes (80 KB)
+downloaded 80 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/pkgload_1.3.2.1.zip'
+Content type 'application/zip' length 178512 bytes (174 KB)
+downloaded 174 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/praise_1.0.0.zip'
+Content type 'application/zip' length 19869 bytes (19 KB)
+downloaded 19 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/processx_3.8.2.zip'
+Content type 'application/zip' length 686236 bytes (670 KB)
+downloaded 670 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/ps_1.7.5.zip'
+Content type 'application/zip' length 553031 bytes (540 KB)
+downloaded 540 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/waldo_0.5.1.zip'
+Content type 'application/zip' length 105067 bytes (102 KB)
+downloaded 102 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/backports_1.4.1.zip'
+Content type 'application/zip' length 101437 bytes (99 KB)
+downloaded 99 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/curl_5.0.2.zip'
+Content type 'application/zip' length 2654991 bytes (2.5 MB)
+downloaded 2.5 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/websocket_1.4.1.zip'
+Content type 'application/zip' length 2577547 bytes (2.5 MB)
+downloaded 2.5 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/openssl_2.1.0.zip'
+Content type 'application/zip' length 3178194 bytes (3.0 MB)
+downloaded 3.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/knitr_1.43.zip'
+Content type 'application/zip' length 1504446 bytes (1.4 MB)
+downloaded 1.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/stringr_1.5.0.zip'
+Content type 'application/zip' length 318269 bytes (310 KB)
+downloaded 310 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/tinytex_0.46.zip'
+Content type 'application/zip' length 136629 bytes (133 KB)
+downloaded 133 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/xfun_0.40.zip'
+Content type 'application/zip' length 434834 bytes (424 KB)
+downloaded 424 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/yaml_2.3.7.zip'
+Content type 'application/zip' length 115669 bytes (112 KB)
+downloaded 112 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/testthat_3.1.10.zip'
+Content type 'application/zip' length 2219624 bytes (2.1 MB)
+downloaded 2.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/callr_3.7.3.zip'
+Content type 'application/zip' length 440064 bytes (429 KB)
+downloaded 429 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/checkmate_2.2.0.zip'
+Content type 'application/zip' length 723586 bytes (706 KB)
+downloaded 706 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/chromote_0.1.2.zip'
+Content type 'application/zip' length 371674 bytes (362 KB)
+downloaded 362 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/globals_0.16.2.zip'
+Content type 'application/zip' length 106831 bytes (104 KB)
+downloaded 104 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/httr_1.4.7.zip'
+Content type 'application/zip' length 485414 bytes (474 KB)
+downloaded 474 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/pingr_2.0.2.zip'
+Content type 'application/zip' length 59691 bytes (58 KB)
+downloaded 58 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/rmarkdown_2.24.zip'
+Content type 'application/zip' length 2674762 bytes (2.6 MB)
+downloaded 2.6 MB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/cpp11_0.4.6.zip'
+Content type 'application/zip' length 316064 bytes (308 KB)
+downloaded 308 KB
+
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/shinytest2_0.3.1.zip'
+Content type 'application/zip' length 3150981 bytes (3.0 MB)
+downloaded 3.0 MB
+
+package ‘utf8’ successfully unpacked and MD5 sums checked
+package ‘pillar’ successfully unpacked and MD5 sums checked
+package ‘pkgconfig’ successfully unpacked and MD5 sums checked
+package ‘sys’ successfully unpacked and MD5 sums checked
+package ‘rprojroot’ successfully unpacked and MD5 sums checked
+package ‘diffobj’ successfully unpacked and MD5 sums checked
+package ‘fansi’ successfully unpacked and MD5 sums checked
+package ‘rematch2’ successfully unpacked and MD5 sums checked
+package ‘tibble’ successfully unpacked and MD5 sums checked
+package ‘AsioHeaders’ successfully unpacked and MD5 sums checked
+package ‘askpass’ successfully unpacked and MD5 sums checked
+package ‘highr’ successfully unpacked and MD5 sums checked
+package ‘stringi’ successfully unpacked and MD5 sums checked
+package ‘vctrs’ successfully unpacked and MD5 sums checked
+package ‘brio’ successfully unpacked and MD5 sums checked
+package ‘desc’ successfully unpacked and MD5 sums checked
+package ‘evaluate’ successfully unpacked and MD5 sums checked
+package ‘pkgload’ successfully unpacked and MD5 sums checked
+package ‘praise’ successfully unpacked and MD5 sums checked
+package ‘processx’ successfully unpacked and MD5 sums checked
+package ‘ps’ successfully unpacked and MD5 sums checked
+package ‘waldo’ successfully unpacked and MD5 sums checked
+package ‘backports’ successfully unpacked and MD5 sums checked
+package ‘curl’ successfully unpacked and MD5 sums checked
+package ‘websocket’ successfully unpacked and MD5 sums checked
+package ‘openssl’ successfully unpacked and MD5 sums checked
+package ‘knitr’ successfully unpacked and MD5 sums checked
+package ‘stringr’ successfully unpacked and MD5 sums checked
+package ‘tinytex’ successfully unpacked and MD5 sums checked
+package ‘xfun’ successfully unpacked and MD5 sums checked
+package ‘yaml’ successfully unpacked and MD5 sums checked
+package ‘testthat’ successfully unpacked and MD5 sums checked
+package ‘callr’ successfully unpacked and MD5 sums checked
+package ‘checkmate’ successfully unpacked and MD5 sums checked
+package ‘chromote’ successfully unpacked and MD5 sums checked
+package ‘globals’ successfully unpacked and MD5 sums checked
+package ‘httr’ successfully unpacked and MD5 sums checked
+package ‘pingr’ successfully unpacked and MD5 sums checked
+package ‘rmarkdown’ successfully unpacked and MD5 sums checked
+package ‘cpp11’ successfully unpacked and MD5 sums checked
+package ‘shinytest2’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\crace\AppData\Local\Temp\RtmpmUb8Uu\downloaded_packages
+> library(shinytest2)
+Loading required package: testthat
+> record_test()
+ℹ The package "shinyvalidate" is required 0.1.2
+✖ Would you like to install it?
+
+1: Yes
+2: No
+
+Selection: 1
+Installing package into ‘C:/Users/crace/AppData/Local/R/win-library/4.3’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/shinyvalidate_0.1.2.zip'
+Content type 'application/zip' length 188995 bytes (184 KB)
+downloaded 184 KB
+
+package ‘shinyvalidate’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\crace\AppData\Local\Temp\RtmpmUb8Uu\downloaded_packages
+Error in `app_initialize()`:
+! Chrome debugging port not open after 10 seconds.
+
+
+ℹ You can inspect the failed AppDriver object via `rlang::last_error()$app`
+ℹ AppDriver logs:
+{shinytest2} R info   11:38:58.06 Start AppDriver initialization
+{shinytest2} R info   11:38:58.06 Starting Shiny app
+{shinytest2} R info   11:38:59.07 Creating new ChromoteSession
+{shinytest2} R info   11:39:10.80 Error while initializing AppDriver:
+                                  Chrome debugging port not open after 10 seconds.
+{shiny}      R stderr ----------- Loading required package: shiny
+{shiny}      R stderr ----------- Running application in test mode.
+{shiny}      R stderr ----------- 
+{shiny}      R stderr ----------- Listening on http://127.0.0.1:4954
+
+Caused by error in `startup()`:
+! Chrome debugging port not open after 10 seconds.
+Run `rlang::last_trace()` to see where the error occurred.
+> Sys.unsetenv("HTTP_PROXY")
+> record_test()
+ℹ The package "rstudioapi" is required.
+✖ Would you like to install it?
+
+1: Yes
+2: No
+
+Selection: 2
+> library(shiny)
+> record_test()
+ℹ The package "rstudioapi" is required.
+✖ Would you like to install it?
+
+1: Yes
+2: No
+
+Selection: 1
+Installing package into ‘C:/Users/crace/AppData/Local/R/win-library/4.3’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.3/rstudioapi_0.15.0.zip'
+Content type 'application/zip' length 319238 bytes (311 KB)
+downloaded 311 KB
+
+package ‘rstudioapi’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\crace\AppData\Local\Temp\RtmpmUb8Uu\downloaded_packages
+
+Listening on http://127.0.0.1:5876
+{shiny} R stderr ----------- Loading required package: shiny
+{shiny} R stderr ----------- Running application in test mode.
+{shiny} R stderr ----------- 
+{shiny} R stderr ----------- Listening on http://127.0.0.1:7539
+• Saving test runner: tests/testthat.R
+• Saving test file: tests/testthat/test-shinytest2.R
+• Adding shinytest2::load_app_env() to tests/testthat/setup-shinytest2.R
+• Running recorded test: tests/testthat/test-shinytest2.R
+Loading required package: testthat
+✔ | F W S  OK | Context
+✔ |   2     1 | shinytest2 [8.2s]                                                                                                                                    
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Warning (test-shinytest2.R:5:3): {shinytest2} recording: shinytest2-dfe-startup-reprex
+Adding new file snapshot: 'tests/testthat/_snaps/shinytest2-dfe-startup-reprex-001_.png'
+
+Warning (test-shinytest2.R:5:3): {shinytest2} recording: shinytest2-dfe-startup-reprex
+Adding new file snapshot: 'tests/testthat/_snaps/shinytest2-dfe-startup-reprex-001.json'
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+══ Results ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Duration: 9.6 s
+
+[ FAIL 0 | WARN 2 | SKIP 0 | PASS 1 ]
+
+Your tests are delightful!
+
